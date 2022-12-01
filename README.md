@@ -1,4 +1,11 @@
-### Hi there 👋
+### <h1 align="center">Hi there 👋, I'm Viki!</h1>
+---
+🌱 During my studies at Codecool I like backend development the most. I passionate about ==event-driven/micro-services== architectures <br  />
+🔭 Checkout my grand team project: [Quokka](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-KisCsaj68)<br  />
+
+✨ My tech-stack includes:<br  />
+☕ Java (+SpringBoot) / 🐳 Docker / 🐰 RabbitMQ / 🏛 Micro-service architecture
+🐘 Postgres SQL / 📜 Javascript (+React) / 🐍 Python (Flask,Jinja)
 
 <!--
 **KisCsaj68/KisCsaj68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
