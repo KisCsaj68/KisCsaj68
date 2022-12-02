@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋, I'm Viki!</h2>
 
-🌱 During my studies at Codecool I like backend development the most. I passionate about event-driven/micro-services architectures <br  />
+🌱 During my studies at Codecool I like backend development the most. I am passionate about event-driven/micro-services architectures <br  />
 🔭 Checkout my grand team project: [Quokka](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-KisCsaj68)<br  />
 
 ✨ My tech-stack includes:<br  />
