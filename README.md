@@ -1,16 +1,16 @@
 ### <h2 align="center">Hi there 👋, I'm Viki!</h2>
 
-🌱 During my studies at Codecool I like backend development the most. I am passionate about event-driven/micro-services architectures <br  />
+🌱 During my studies at Codecool I liked backend development the most. I am passionate about event-driven/micro-services architectures <br />
 🔭 Checkout my grand team project: [Quokka](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-KisCsaj68)<br  />
 
 ✨ My tech-stack includes:<br  />
 ☕ Java (+SpringBoot) / 🐳 Docker / 🐰 RabbitMQ / 🏛 Micro-service architecture<br />
 🐘 Postgres SQL / 📜 Javascript (+React) / 🐍 Python (Flask,Jinja)<br  />
-<br  />
+<br />
   <a href="https://github.com/KisCsaj68/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KisCsaj68&show_icons=true&theme=tokyonight" />
   </a>
-  <br  />
+  <br />
 
 
 
